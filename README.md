@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... 
 - 📫 How to reach me: ... [email](rispoli.mar2803@gmail.com || marcorispoli@arubapec.it) [Portfolio](https://mr2803.github.io/mr-portfolio/contact.html)
-- 😄 Pronouns: ... Hi dear !
+- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love bugs 🐛
