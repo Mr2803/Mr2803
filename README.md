@@ -1,6 +1,4 @@
-### Here is What I'm Working On! 👋
-
-Here are some ideas to get you started:
+### Hi, I'm Marco Rispoli! 👋
 
 - 🔭 I’m currently working on ... MyCibus Srl
 - 🌱 I’m currently learning ... React | React Native | MERN
